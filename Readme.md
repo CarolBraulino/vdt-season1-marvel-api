@@ -64,6 +64,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Feito &nbsp;por Maria Carolina Braulino [Meu linkedin](https://www.linkedin.com/in/mariacbraulino/) 
-atraves das aulas do &nbsp; Fernando Papito 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/papitoio/)
+atraves das aulas do &nbsp;Fernando Papito 👋 &nbsp;
 
 
